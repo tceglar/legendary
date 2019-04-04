@@ -1,5 +1,5 @@
 # legendary
-A pyhton (ipython notebook) script that uses matplotlib to create custom legends for contour plots with latex compiled text.
+A pyhton (yupyther notebook) script that uses matplotlib to create custom legends for contour plots with latex compiled text.
 
 ---
 
